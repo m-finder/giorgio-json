@@ -8,8 +8,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "aiyingshi",
@@ -19,8 +19,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "alipansou",
@@ -32,8 +32,8 @@
                 "aliToken": "your_ali_token",
                 "quarkCookie": "your_quark_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "aliyunpanshare",
@@ -45,8 +45,8 @@
                 "aliToken": "your_ali_token",
                 "quarkCookie": "your_quark_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "asianx",
@@ -56,8 +56,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "bilibili",
@@ -68,8 +68,8 @@
                 "box": "TVBox",
                 "cookie": "your_bili_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "changzhang",
@@ -81,8 +81,8 @@
                 "aliToken": "your_ali_token",
                 "quarkCookie": "your_quark_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "ciliduo",
@@ -92,8 +92,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "cilixiong",
@@ -103,8 +103,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "cntv",
@@ -114,8 +114,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "doll",
@@ -125,8 +125,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "douban",
@@ -136,8 +136,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "dubo",
@@ -147,8 +147,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "dygangs",
@@ -158,8 +158,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "dyttbt",
@@ -169,8 +169,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "feifan",
@@ -180,8 +180,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "feifan18",
@@ -191,8 +191,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "freeok",
@@ -202,8 +202,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "gitcafe",
@@ -215,8 +215,8 @@
                 "aliToken": "your_ali_token",
                 "quarkCookie": "your_quark_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "haiwaikan",
@@ -226,8 +226,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "hanxiucao",
@@ -237,8 +237,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "haoxi",
@@ -248,8 +248,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "hscangku",
@@ -259,8 +259,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "huya",
@@ -270,8 +270,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "ikanbot",
@@ -281,8 +281,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "jable",
@@ -292,8 +292,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "jiafeimao",
@@ -303,8 +303,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "jianpian",
@@ -314,8 +314,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "jiujiuliu",
@@ -325,8 +325,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "kankan70",
@@ -336,8 +336,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "kuaikan",
@@ -347,8 +347,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "liangzi",
@@ -359,8 +359,8 @@
                 "box": "TVBox",
                 "code": 1
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "liangzi18",
@@ -370,8 +370,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "lovemovie",
@@ -381,8 +381,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "lovemovie18",
@@ -392,8 +392,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "mp4movie",
@@ -403,8 +403,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "mxanime",
@@ -414,8 +414,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "nangua",
@@ -425,8 +425,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "newvision",
@@ -436,8 +436,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "nivod",
@@ -448,8 +448,8 @@
                 "box": "TVBox",
                 "code": 1
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "nivod_18",
@@ -459,8 +459,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "pan_search",
@@ -472,8 +472,8 @@
                 "aliToken": "your_ali_token",
                 "quarkCookie": "your_quark_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "pipixia",
@@ -483,8 +483,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "sehuatang",
@@ -494,8 +494,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "sp360",
@@ -505,8 +505,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "spider",
@@ -516,8 +516,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "star",
@@ -527,8 +527,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "tiantian",
@@ -538,8 +538,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "weixine",
@@ -551,8 +551,8 @@
                 "aliToken": "your_ali_token",
                 "quarkCookie": "your_quark_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "wogg",
@@ -564,8 +564,8 @@
                 "aliToken": "your_ali_token",
                 "quarkCookie": "your_quark_cookie"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "xb6v",
@@ -575,8 +575,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "xgcartoon",
@@ -586,8 +586,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         },
         {
             "key": "yiqikan",
@@ -597,8 +597,8 @@
             "ext": {
                 "box": "TVBox"
             },
-            "playerType": 0,
-            "type": "3"
+            "playerType": 1,
+            "type": 3
         }
     ],
     "ijk": [
